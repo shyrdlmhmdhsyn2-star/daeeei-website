@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101d3f"/><stop offset="1" stop-color="#05080f"/></linearGradient></defs>
+  <rect width="400" height="500" fill="url(#b)"/>
+  <g fill="none" stroke="#c9a24b" stroke-width="2.5" opacity=".75">
+    <circle cx="200" cy="190" r="62"/>
+    <path d="M70 470C70 370 130 330 200 330S330 370 330 470"/>
+  </g>
+  <text x="200" y="420" text-anchor="middle" fill="#e3c377" font-family="Tahoma,sans-serif" font-size="18">تصویر پرتره (جای‌نگهدار)</text>
+  <text x="200" y="448" text-anchor="middle" fill="#9aa3bd" font-family="Tahoma,sans-serif" font-size="13">assets/portrait.jpg جایگزین شود</text>
+</svg>
